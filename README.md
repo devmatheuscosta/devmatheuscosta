@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-florentino-costa/)
 [![Git Lab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Matheus_Costa)
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_mattheus_costa_/)
-[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
+
 [![built with Codeium](https://codeium.com/badges/main)](https://codeium.com/profile/selfishly-dreamy-caiman-52505)
 
 ![Matheus Costa GitHub stats](https://github-readme-stats.vercel.app/api?username=devmatheuscosta&show_icons=true&theme=dracula)
